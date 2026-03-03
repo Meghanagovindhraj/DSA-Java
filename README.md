@@ -1,2 +1,2 @@
 # DSA
-This repo contains my Java solutions for DSA and LeetCode problems
+This repo contains solutions for DSA and LeetCode problems
